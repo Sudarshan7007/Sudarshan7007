@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Sudarshan Pandey 👋
 
 <!--
 **Sudarshan7007/Sudarshan7007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
